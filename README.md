@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/oliveiraleosilva87/tableau">
+    <img src="images/logo.png" alt="Logo" width="240" height="240">
   </a>
 
   <h3 align="center">Tableau Personal Projects Roadmap</h3>
@@ -24,7 +24,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This is the branch were I'll put all my personal Tableau projects. They will be also uploaded in the Tableau Public cloud. Here you can:
+This is the repository were I'll put all my personal Tableau projects. They will be also uploaded in the Tableau Public cloud. Here you can:
 
 * Check my latest Tableau updates
 * Track my Tableau development progress
@@ -43,7 +43,7 @@ I mainly use Tableau Desktop to create and update dashboards to the Tableau Publ
 * [![tableau][tableau-badge]][tableau-url]
 * [![excel][excel-badge]][excel-url]
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -86,7 +86,7 @@ You can view all the projects running in the Tableau Public website, but if you 
 
 I could surely create a waterfall chart using PMI project framework or even a Product Roadmap based in the Scrum Agile Framework, but I'll keep it simple, since will only update this project in my free time and making a complex schedule could lead me to a outdated documentation
 
-- [x] Create GitHub project branch
+- [x] Create GitHub project repository
 - [x] Update a first fork of an existing Tableau project
 - [ ] Create a project from scratch using a public dataset
 - [ ] Explore any cool feature in Tableau Public and create a new project using it
