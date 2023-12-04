@@ -1,9 +1,28 @@
 <a name="readme-top"></a>
 
-<!-- ABOUT THE PROJECT -->
-About the project
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo" alt="Logo" width="80" height="80">
+  </a>
 
-<!-- colocar apontamento para imagem ou link aqui [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+  <h3 align="center">Tableau Personal Projects Roadmap</h3>
+
+  <p align="center">
+    A repository with my personal projects analyzing data with Tableau
+  </p>
+
+  
+</div>
+
+
+<!-- ABOUT THE PROJECT -->
+## About the project
+
+[![Product Name Screen Shot][product-screenshot]](https://public.tableau.com/app/profile/oliveiraleosilva87/vizzes)
+
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 This is the branch were I'll put all my personal Tableau projects. They will be also uploaded in the Tableau Public cloud. Here you can:
 
@@ -122,6 +141,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[product-screenshot]: images/screenshot.png
 [tableau-badge]: https://img.shields.io/badge/tableau-0769AD?style=for-the-badge&logo=tableau&logoColor=white
 [tableau-url]: https://www.tableau.com/
 [excel-badge]: https://img.shields.io/badge/ms_excel-1D6F42?style=for-the-badge&logo=ms_excel&logoColor=white
