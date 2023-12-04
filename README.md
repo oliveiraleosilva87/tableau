@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+About the project
 
 <!-- colocar apontamento para imagem ou link aqui [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
