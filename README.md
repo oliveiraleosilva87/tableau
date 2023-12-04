@@ -125,7 +125,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [tableau-badge]: https://img.shields.io/badge/tableau-0769AD?style=for-the-badge&logo=tableau&logoColor=white
 [tableau-url]: https://www.tableau.com/
 [excel-badge]: https://img.shields.io/badge/ms_excel-1D6F42?style=for-the-badge&logo=ms_excel&logoColor=white
-[excel-url]: https://www.microsoft.com/pt-br/microsoft-365/excel
+[excel-url]: https://www.microsoft.com/microsoft-365/excel
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
